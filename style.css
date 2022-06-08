@@ -1,0 +1,133 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    padding-left: 3rem;
+}
+p{
+    color: white;
+}
+header{
+    display: flex;
+}
+
+.LEARN{
+    padding-left: 45rem;
+
+}
+
+.SIGN{
+    padding-left: 3rem;
+
+
+}
+.LOGIN{
+    padding-left: 3rem;
+
+}
+.watsapp{
+    width: 20px;
+    height: 20px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+
+
+}
+.instagram{
+    width: 20px;
+    height: 20px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+
+}
+.linked{
+    width: 20px;
+    height: 20px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+
+}
+.telegram{
+    width: 20px;
+    height: 20px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+
+}
+
+li{
+    color: white;
+}
+.Text{
+    padding-left: 7rem;
+    padding-top: 5rem;
+    font-size: 45px;
+}
+.avail{
+    color: white;
+    font-style: italic;
+    padding-left: 3.7rem;
+}
+.imege{
+    padding-left: 30px;
+    width: 500px;
+}
+.lot{
+    display: flex;
+}
+.lagos{
+    font-style: italic;
+    font-size: large;
+    padding-left: 45rem;
+
+}
+.bio{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+.new{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 40rem
+}
+.ff{
+    justify-content: center;
+}
+form{
+    background-color: white;
+    border-radius: 7px;
+    width: 50%;
+
+}
+.first{
+    height: 3rem;
+    margin-left: 3rem;
+    padding-left: 8px;
+    width:73.1%
+
+}
+.last{
+    height: 3rem;
+    margin-left: 3rem;
+    padding-left: 8px;
+    width: 73.1%;
+
+}
+.phone{
+    height: 3rem;
+    margin-left: 3rem;
+    padding-left: 8px;
+    width: 73.1%;
+
+}
+.email{
+    height: 3rem;
+    margin-left: 3rem;
+    padding-left: 8px;
+    width: 73.1%;
+
+}
